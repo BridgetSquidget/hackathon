@@ -19,6 +19,8 @@
     - comparing images from multiple runs to give you an idea of major differences
       - kind of builds off the automated segmentation idea  
 - data types and repositories
+    - helpful for later
+      - https://www.cellimagelibrary.org/home   
     - general repository links
         - https://idr.openmicroscopy.org/
         - https://beta.bioimagearchive.org/bioimage-archive/
