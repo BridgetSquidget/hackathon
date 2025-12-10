@@ -5,7 +5,7 @@ Bridget Vincent, Arielle Rothman, Saurin Rajesh Savla
 
 ## Notes and Brainstorming
 - General interests
-  - complex trait morphology
+  - complex trait morphology and evolution
       - eyes
       - photophores/light organs 
 - possible hackathon objectives
