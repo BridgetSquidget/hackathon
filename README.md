@@ -4,6 +4,8 @@
 Bridget Vincent @BridgetSquidget, Arielle Rothman, Saurin Rajesh Savla
 
 ## Notes and Brainstorming
+- What we're looking for in teammates
+  - TBD
 - General interests
   - complex trait morphology and evolution
       - eyes
