@@ -6,7 +6,7 @@
 - Saurin Rajesh Savla, M.S. Comp Sci student
 - Fanzhi (Clark) Su, University of Campbridge
 
-Note: This project is being developed as part of the AI and ML for Microscopy HYackathon.
+Note: This project is being developed as part of the AI and ML for Microscopy Hackathon.
 
 ## Overview
 
@@ -20,7 +20,12 @@ This project aims to create a chatbot to assist biologists in segmenting and exp
 
 ## File Organization
 
-# The stuff we'll get rid of before the final submission
+
+
+
+
+# The stuff we'll get rid of before the final submission:
+
 ## Notes and Brainstorming
 - What we're looking for in teammates
   - TBD
