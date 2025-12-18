@@ -3,8 +3,7 @@
 ## Team
 - Bridget Vincent @BridgetSquidget, Ph.D. candidate Eco, evo, marine bio, UC Santa Barbara
 - Arielle Rothman, M.S. Bio(?) (Freshly defended, woohoo!!!), University of Toronto
-- Saurin Rajesh Savla, M.S. Comp Sci student
-- Fanzhi (Clark) Su, University of Campbridge
+- Saurin Rajesh Savla, M.S. Computer Science, The Pennsylvania State University
 
 Note: This project is being developed as part of the AI and ML for Microscopy Hackathon.
 
